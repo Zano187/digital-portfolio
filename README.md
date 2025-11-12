@@ -55,11 +55,9 @@ Conducted a complete mock interview video.
 
 ## Evidence
 ![Mock Interview Video Screenshot](https://github.com/Zano187/digital-portfolio/blob/main/Mock%20Interview%20submission.png)
-![Mock Vdeo](https://github.com/Zano187/digital-portfolio/blob/main/Mock%20Interview.png)
+![](https://github.com/Zano187/digital-portfolio/blob/main/Mock%20Interview.png)
 
 ![Mock Interview Video](https://github.com/wil-it2025/cv-tutorial-Zano187/commit/ecbd657bbd1f91eb66e0201ff69c1fa5cc08606e#diff-631de3013ea15e0bf74923e2ca20d240e7516efe1bb3444a5dd5e34518cdae56) 
-
-https://github.com/Zano187/digital-portfolio/blob/main/Mock%20Interview.png
 
 ---
 
