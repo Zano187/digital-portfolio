@@ -28,8 +28,7 @@ As an ICT student who's dreaming of starting his dream career, I had to discover
  I learned the difference between a career and a job, and the importance of a career development plan.
  
  ## Evidence
- [Career Development](https://github.com/Zano187/digital-portfolio/blob/main/Career%20Development.png) 
-   ![Career Development](https://github.com/Zano187/digital-portfolio/blob/main/Career%20Development.png)
+  ![Career Development](https://github.com/Zano187/digital-portfolio/blob/main/Career%20Development.png)
    
 ---
 
@@ -50,8 +49,8 @@ I had to list my interests and determine my values, to be able to learn what my 
 I completed chapter quizzes, to test my understanding and knowledge about the chapters and match my skills with my career goals.
 
 ## Evidence
-[Skills and Interests](https://github.com/Zano187/digital-portfolio/blob/main/Skills%20and%20interests.png) 
-   ![Skills and Interests](https://github.com/Zano187/digital-portfolio/blob/main/Skills%20and%20interests.png)
+![Skills and Interests](https://github.com/Zano187/digital-portfolio/blob/main/Skills%20%26%20Interests.png)
+
    
 ---
 
@@ -73,8 +72,8 @@ I learned about the different types of career influences and how each of it play
 I completed the chapter quizzes and discovered how to use my personality traits to my benefit.
 
 ## Evidence
-[Personality Assessment](https://github.com/Zano187/digital-portfolio/blob/main/Personality%20assessment.png) 
-   ![Personality Assessment](https://github.com/Zano187/digital-portfolio/blob/main/Personality%20assessment.png)
+![Personality Assessment](https://github.com/Zano187/digital-portfolio/blob/main/Personality%20Assessment.png)
+
    
 ---
 
@@ -96,8 +95,7 @@ I had to learn what a CV is and it's importance. I had to read through the docum
 I completed the quizzes about the document and acquired the necessary knowledge to create a CV.
 
 ## Evidence
-[Create a CV](https://github.com/Zano187/digital-portfolio/blob/main/Create%20a%20CV.png) 
-   ![Create a CV](https://github.com/Zano187/digital-portfolio/blob/main/Create%20a%20CV.png)
+![Create a CV](https://github.com/Zano187/digital-portfolio/blob/main/Create%20CV.png)
    
 ---
 
@@ -116,8 +114,7 @@ A CV that can get you your best job.
 
 
 ## Evidence
-[CV submission](https://github.com/Zano187/digital-portfolio/blob/main/Brezano%20Liebenberg%20CV.pdf) 
-   ![CV Submission](https://github.com/Zano187/digital-portfolio/blob/main/Brezano%20Liebenberg%20CV.pdf)
+- [Brezano's CV](https://github.com/Zano187/digital-portfolio/blob/main/Brezano%20Liebenberg%20CV.pdf)
 
 ---
 
