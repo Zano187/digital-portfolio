@@ -73,7 +73,7 @@ Read through the entire document and answer small quizzes to get a better unders
 Completed a final quiz at the end of the chapter to test my knowledge on the topics covered in the chapter, which counts for marks.
 
 ## Evidence
-![Professional Networking](https://github.com/Zano187/digital-portfolio/blob/main/Professional%Networking.png)
+![Professional Networking](https://github.com/Zano187/digital-portfolio/blob/main/Professional%20Networking.png)
  
 ---
 
